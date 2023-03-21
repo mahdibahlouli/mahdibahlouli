@@ -1,6 +1,6 @@
-# 🖥 Mahdi Bahlouli
-
+🖥 Mahdi Bahlouli
 **`(Developer/Hacker/Guru)`**
+#
 
 <h3 align="center"> a computer science student with a passion for cybersecurity and Linux systems . My interest lies in penetration testing and both software and web development.</h3>
 
@@ -22,12 +22,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdibahlouli&show_icons=true&locale=en&layout=compact" alt="mahdibahlouli" /></p>
 
 
-
-
-
-#
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
