@@ -25,6 +25,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibahlouli&layout=compact&langs_count=6" alt="Mahdi's Languages stats" />
 </div>
 
+#
+<details>
+ <summary><h3>👨‍💻 Mahdis's Coding Journey</h3></summary>
+  When I was young, my brother bought a computer for our family and that's when my love for computers and coding started. I was fascinated by the power of the terminal and the command line, and spent hours playing around with different commands and programs.
+
+  As I grew older, I became interested in exploring the world of hacking and finding vulnerabilities in software and systems. However, it wasn't until I took computer science courses that I realized how coding could be used to solve real-world problems and make a difference in people's lives.
+
+  So, I decided to take coding seriously and started learning new concepts and techniques every day. I dived into programming languages such as Python and bash and created my own projects from scratch
+
+  Through my journey, my passion for computers and coding only grew stronger. I knew that this was more than just a hobby - it was my passion and something that I wanted to pursue for the rest of my life.
+  
+
 
 #
 <h3 align="left">Connect with me:</h3>
