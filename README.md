@@ -27,7 +27,7 @@
 
 #
 <details>
- <summary><h3>👨 Mahdi's Coding Journey</h3></summary>
+ <summary><h3>👨 About Mahdi </h3></summary>
 
   When I was young, my brother bought a computer for our family and that's when my love for computers and coding started. I was fascinated by the power of the terminal and the command line, and spent hours playing around with different commands and programs.
 
