@@ -12,15 +12,27 @@
 
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdibahlouli&show_icons=true&locale=en&layout=compact" alt="mahdibahlouli" /></p>
 
+### 📊 Stats
+
+![Mahdis's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mahdibahlouli&show_icons=true&locale=en&layout=compact)
+![Mahdi's Tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/MVNK1.png)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdibahlouli&show_icons=true&locale=en&layout=compact" alt="mahdibahlouli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdibahlouli&" alt="mahdibahlouli" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdibahlouli&show_icons=true&locale=en" alt="mahdibahlouli" /></p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="TryHackMe">
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdibahlouli&" alt="mahdibahlouli" /></p>
+
 
 #
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
