@@ -37,6 +37,8 @@
 
   Through my journey, my passion for computers and coding only grew stronger. I knew that this was more than just a hobby - it was my passion and something that I wanted to pursue for the rest of my life.
   
+  </details>
+  
 
 
 #
