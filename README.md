@@ -13,21 +13,17 @@
 
 
 ### 📊 Stats
-<div align="left">
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdibahlouli&" alt="Mahdi's Github stats" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdibahlouli&" alt="Mahdi's Github stats" />
 </div>
 
-<div align="right">
-  <div style="display:inline-block; width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdibahlouli&show_icons=true&locale=en&layout=compact" alt="Mahdi's Languages stats" />
-  </div>
-  <div style="display:inline-block; width: 45%;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="Mahdis's Tryhackme stats" />
-  </div>
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="Mahdi's Tryhackme stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibahlouli&layout=compact&langs_count=6" alt="Mahdi's Languages stats" />
+</div>
 
 
 #
