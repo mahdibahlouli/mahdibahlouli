@@ -13,9 +13,9 @@
 
 
 ### 📊 Stats
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdibahlouli&" alt="Mahdi's Github stats" />
-</div>
+</div>-->
 
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="Mahdi's Tryhackme stats" />
@@ -27,7 +27,7 @@
 
 #
 <details>
- <summary><h3>👨‍💻 Mahdis's Coding Journey</h3></summary>
+ <summary><h3>👨 Mahdis's Coding Journey</h3></summary>
 
   When I was young, my brother bought a computer for our family and that's when my love for computers and coding started. I was fascinated by the power of the terminal and the command line, and spent hours playing around with different commands and programs.
 
@@ -36,7 +36,7 @@
   So, I decided to take coding seriously and started learning new concepts and techniques every day. I dived into programming languages such as Python and bash and created my own projects from scratch
 
   Through my journey, my passion for computers and coding only grew stronger. I knew that this was more than just a hobby - it was my passion and something that I wanted to pursue for the rest of my life.
-  
+
   </details>
   
 
