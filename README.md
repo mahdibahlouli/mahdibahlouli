@@ -2,7 +2,6 @@
 
 **`(Developer/Hacker/Guru)`**
 
-<h1 align="center">Hi 👋, Am Mahdi </h1>
 <h3 align="center"> a computer science student with a passion for cybersecurity and Linux systems . My interest lies in penetration testing and both software and web development.</h3>
 
 
