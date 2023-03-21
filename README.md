@@ -13,13 +13,13 @@
 
 
 ### 📊 Stats
-<div align="right">
+<div align="left">
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdibahlouli&" alt="Mahdi's Github stats" />
 
 </div>
 
-<div align="left">
+<div align="right">
   <div style="display:inline-block; width: 45%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdibahlouli&show_icons=true&locale=en&layout=compact" alt="Mahdi's Languages stats" />
   </div>
