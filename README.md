@@ -1,9 +1,8 @@
-🖥 Mahdi Bahlouli
+# 🖥 Mahdi Bahlouli
+
 **`(Developer/Hacker/Guru)`**
-#
 
 <h3 align="center"> a computer science student with a passion for cybersecurity and Linux systems . My interest lies in penetration testing and both software and web development.</h3>
-
 
 #
 
@@ -16,17 +15,12 @@
 ### 📊 Stats
 
 ![Mahdis's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mahdibahlouli&)
-
-<p><img align="right" src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="Tryhackme" /></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdibahlouli&show_icons=true&locale=en&layout=compact" alt="mahdibahlouli" /></p>
+![Mahdis's Languages stats](https://github-readme-stats.vercel.app/api/top-langs?username=mahdibahlouli&show_icons=true&locale=en&layout=compact)
+![Mahdis's Tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/MVNK1.png)
 
 
 
 #
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahdi_bahlouli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi_bahlouli" height="30" width="40" /></a>
