@@ -20,10 +20,10 @@
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="Mahdi's Tryhackme stats" />
 </div>
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibahlouli&layout=compact&langs_count=6" alt="Mahdi's Languages stats" />
-</div>
+</div> -->
+
 
 #
 <details>
