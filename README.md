@@ -1,4 +1,4 @@
-# 🖥 Mahdi Bahlouli
+#  Mahdi Bahlouli
 
 **`(Developer/Hacker/Monk)`**
 
