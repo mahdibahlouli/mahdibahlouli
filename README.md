@@ -28,14 +28,8 @@
 #
 <details>
  <summary><h3>👨 About Me </h3></summary>
-
-  When I was young, my brother bought a computer for our family and that's when my love for computers and coding started. I was fascinated by the power of the terminal and the command line, and spent hours playing around with different commands and programs.
-
-  As I grew older, I became interested in exploring the world of hacking and finding vulnerabilities in software and systems. However, it wasn't until I took computer science courses that I realized how coding could be used to solve real-world problems and make a difference in people's lives.
-
-  So, I decided to take coding seriously and started learning new concepts and techniques every day. I dived into programming languages such as Python and bash and created my own projects from scratch
-
-  Through my journey, my passion for computers and coding only grew stronger. I knew that this was more than just a hobby - it was my passion and something that I wanted to pursue for the rest of my life.
+I
+  really like using Linux as my computer's operating system, and I'm a big fan of open-source software. I've loved computers since I was a kid, and I enjoy learning new things because it's fun for me. I try to stay focused and do things regularly. Every day, I work on becoming a better version of myself, both in my personal life and in my interests in technology. Let's connect if you share a passion for Linux and open source, and we can learn and grow together.
 
   </details>
   
