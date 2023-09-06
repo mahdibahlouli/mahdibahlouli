@@ -2,7 +2,7 @@
 
 **`(Developer/Hacker/Monk)`**
 
-<h3 align="center"> a computer science student with a passion for opensource and linux . My interest lies in Red Teaming and software development.</h3>
+<h3 align="center"> a computer science student with a passion for opensource and linux . My interest lies in Security and software development.</h3>
 
 #
 
