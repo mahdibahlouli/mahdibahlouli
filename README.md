@@ -29,8 +29,7 @@
 <details>
  <summary><h3>👨 About Me </h3></summary>
 I
-  really like using Linux as my computer's operating system, and I'm a big fan of open-source software. I've loved computers since I was a kid, and I enjoy learning new things because it's fun for me. I try to stay focused and do things regularly. Every day, I work on becoming a better version of myself, both in my personal life and in my interests in technology. Let's connect if you share a passion for Linux and open source, and we can learn and grow together.
-
+  really like using Linux as my computer's operating system, and I'm a big fan of open-source software. I've loved computers since I was a kid, and I enjoy learning new things because it's fun for me. I try to stay focused and do things regularly. Every day, I work on becoming a better version of myself, both in my personal life and in my interests in technology. 
   </details>
   
 
