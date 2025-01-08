@@ -28,6 +28,9 @@ A passionate computer science student who thrives on exploring open-source, Linu
   <a href="https://rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
   </a>
+  <a href="https://docs.helius.dev/" target="_blank" rel="noreferrer">
+    <img src="https://helius.xyz/logo.svg" alt="Helius APIs" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -42,8 +45,8 @@ A passionate computer science student who thrives on exploring open-source, Linu
 ---
 
 ### 🛠️ **What I Do**
-- **Web3 Development:** Specializing in building decentralized applications (dApps) and smart contracts on the **Solana Blockchain** using **Rust** and **Anchor Framework**.
-- **Security Research:** Passionate about ethical hacking and securing Web3 systems.
+- **Web3 Development:** Building decentralized applications (dApps) and blockchain solutions on the **Solana Blockchain**, leveraging **Helius APIs** for seamless data indexing, transaction tracking, and enhanced blockchain interactions.
+- **Security Research:** Passionate about ethical hacking and ensuring secure Web3 environments.
 - **Open-Source Contributions:** Actively contributing to and supporting community projects.
 - **Linux Enthusiast:** Advocating for open-source systems as the backbone of innovation.
 
@@ -66,7 +69,7 @@ A passionate computer science student who thrives on exploring open-source, Linu
 <details>
   <summary><h3>👨‍💻 About Me</h3></summary>
   <p>
-    I've been passionate about computers since childhood, leading me to explore the vast world of technology. Linux fuels my day-to-day work, and I strive to contribute to open-source communities. My current focus is on mastering Solana's high-performance blockchain, building secure decentralized apps, and continually improving myself both professionally and personally.
+    I've been passionate about computers since childhood, leading me to explore the vast world of technology. Linux fuels my day-to-day work, and I strive to contribute to open-source communities. My current focus is on mastering Solana's high-performance blockchain, leveraging **Helius APIs** to create efficient, scalable solutions for real-world use cases.
   </p>
 </details>
 
