@@ -1,86 +1,107 @@
-# Mahdi Bahlouli
-
-**`(Web3 Developer | Hacker | Monk)`**
-
-<h3 align="center">
-A passionate computer science student who thrives on exploring open-source, Linux, security, and Web3 development. I'm on a journey to blend technology with decenterlized systems.
-</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/46750750/118325857-f917d400-b4ea-11eb-8506-93e5f5a3a126.gif" alt="Wave" width="30"/>  
+  <h1>Hi, I'm <span style="color: #ff6f61;">Mahdi Bahlouli</span></h1>
+  <h3>Web3 Developer | Open-source Enthusiast | Student</h3>
+</div>
 
 ---
 
-### 🔧 **Languages and Tools**
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://solana.com/" target="_blank" rel="noreferrer">
-    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" alt="Solana" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
-  </a>
-  <a href="https://docs.helius.dev/" target="_blank" rel="noreferrer">
-    <img src="https://app.ashbyhq.com/api/images/org-theme-logo/b083f53d-31a9-48fd-98f0-190f8c724c95/696c566d-1b82-4aa8-8acc-8cfdb68841f5.png" alt="Helius APIs" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+  <p>
+    <em>
+      "Empowering the decentralized future with code and open-source contributions.  
+      Passionate about Solana Blockchain, Web3, and ethical security research."  
+    </em>
+  </p>
+</div>
+
+---
+
+### 🔧 **Tech Stack**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50"/><br>HTML</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50"/><br>CSS</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/><br>Python</td>
+      <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50"/><br>Django</td>
+      <td align="center" width="120"><img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" alt="Solana" width="50"/><br>Solana</td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50"/><br>Rust</td>
+      <td align="center" width="120"><img src="https://app.ashbyhq.com/api/images/org-theme-logo/b083f53d-31a9-48fd-98f0-190f8c724c95/696c566d-1b82-4aa8-8acc-8cfdb68841f5.png" alt="Helius" width="50"/><br>Helius APIs</td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/><br>Git</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/><br>Linux</td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50"/><br>Bash</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🛠️ **What I Do**
-- **Web3 Development:** Building decentralized applications (dApps) and blockchain solutions on the **Solana Blockchain**, leveraging **Helius APIs** for seamless data indexing, transaction tracking, and enhanced blockchain interactions.
-- **Security Research:** Passionate about ethical hacking and ensuring secure Web3 environments.
-- **Open-Source Contributions:** Actively contributing to and supporting community projects.
-- **Linux Enthusiast:** Advocating for open-source systems as the backbone of innovation.
+
+#### 🧑‍💻 Web3 Development
+- Building dApps on **Solana Blockchain**.
+- Leveraging **Helius APIs** for seamless data indexing, transaction tracking, and blockchain integration.
+
+#### 🛡️ Security Research
+- Focused on **ethical hacking** and enhancing **Web3 security** to create safer decentralized systems.
+
+#### 🌐 Open-Source Contributions
+- Active in contributing to **open-source projects** and community-driven initiatives.
+
+#### 🖥️ Linux Enthusiast
+- Advocating for **Linux** and **open-source tools** as the foundation of modern tech innovation.
 
 ---
 
-### 📊 **Stats**
+### 📊 **Statistics**
+
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="Mahdi's TryHackMe Stats" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="TryHackMe Badge" />
 </div>
 
-<!-- Uncomment for GitHub Stats -->
-<!-- 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdibahlouli&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div> 
--->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahdibahlouli&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="500"/>
+</div>
 
 ---
 
-<details>
-  <summary><h3>👨‍💻 About Me</h3></summary>
-  <p>
-    I've been passionate about computers since childhood, leading me to explore the vast world of technology. Linux fuels my day-to-day work, and I strive to contribute to open-source communities. My current focus is on mastering Solana's high-performance blockchain, leveraging **Helius APIs** to create efficient, scalable solutions for real-world use cases.
-  </p>
-</details>
+### 🌟 **Featured Projects**
+
+#### 1️⃣ **Decentralized Wallet Tracker**  
+- Built a real-time wallet monitoring dApp using **Solana** and **Helius APIs**.  
+- Features include token tracking, transaction history, and dynamic analytics.
+
+#### 2️⃣ **Linux Security Toolkit**  
+- A set of security tools to automate system monitoring and threat detection on Linux.  
+- Built using **Bash scripting** and **Python**.
 
 ---
 
-### 🌐 **Connect with Me**
-<p align="left">
+### 📖 **About Me**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/46750750/118327398-bf9e9800-b4ed-11eb-81c6-e27a7f1f0cf0.gif" alt="Coding" width="300"/>
+</div>
+
+<p>
+From exploring computers in my childhood to building decentralized systems today, my journey has always been fueled by curiosity and innovation.  
+I’m dedicated to mastering Solana’s high-performance blockchain and contributing to a decentralized future.  
+My work is a blend of open-source advocacy, technical problem-solving, and constant learning.
+</p>
+
+---
+
+### 🌐 **Connect With Me**
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mahdi-bahlouli/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahdi on LinkedIn" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/mahdibahlouli" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mahdi on LeetCode" height="30" width="40"/>
+    <img src="https://img.shields.io/badge/-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</p>
+</div>
