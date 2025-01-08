@@ -3,7 +3,7 @@
 **`(Web3 Developer | Hacker | Monk)`**
 
 <h3 align="center">
-A passionate computer science student who thrives on exploring open-source, Linux, security, and Web3 development. I'm on a journey to blend technology with philosophy for a balanced life.
+A passionate computer science student who thrives on exploring open-source, Linux, security, and Web3 development. I'm on a journey to blend technology with decenterlized systems.
 </h3>
 
 ---
