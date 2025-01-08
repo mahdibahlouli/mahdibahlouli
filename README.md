@@ -25,11 +25,11 @@ A passionate computer science student who thrives on exploring open-source, Linu
   <a href="https://solana.com/" target="_blank" rel="noreferrer">
     <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" alt="Solana" width="40" height="40"/>
   </a>
-  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
   </a>
   <a href="https://docs.helius.dev/" target="_blank" rel="noreferrer">
-    <img src="https://helius.xyz/logo.svg" alt="Helius APIs" width="40" height="40"/>
+    <img src="https://helius.xyz/static/media/logo.2a04575d.svg" alt="Helius APIs" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
