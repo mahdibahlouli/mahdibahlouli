@@ -22,11 +22,11 @@ A passionate computer science student who thrives on exploring open-source, Linu
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <a href="https://solana.com/" target="_blank" rel="noreferrer">
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" alt="Solana" width="40" height="40"/>
   </a>
-  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025" alt="Ethereum" width="40" height="40"/>
+  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -42,10 +42,10 @@ A passionate computer science student who thrives on exploring open-source, Linu
 ---
 
 ### 🛠️ **What I Do**
-- **Web3 Development:** Building decentralized applications (dApps) and smart contracts on Ethereum and Solana.
-- **Security Research:** Passionate about ethical hacking and securing systems.
+- **Web3 Development:** Specializing in building decentralized applications (dApps) and smart contracts on the **Solana Blockchain** using **Rust** and **Anchor Framework**.
+- **Security Research:** Passionate about ethical hacking and securing Web3 systems.
 - **Open-Source Contributions:** Actively contributing to and supporting community projects.
-- **Linux Enthusiast:** Advocating for open-source systems as the future of technology.
+- **Linux Enthusiast:** Advocating for open-source systems as the backbone of innovation.
 
 ---
 
@@ -66,7 +66,7 @@ A passionate computer science student who thrives on exploring open-source, Linu
 <details>
   <summary><h3>👨‍💻 About Me</h3></summary>
   <p>
-    I've been passionate about computers since childhood, leading me to explore the vast world of technology. Linux fuels my day-to-day work, and I strive to contribute to open-source communities. My current focus is on mastering Web3, building secure decentralized apps, and continually improving myself both professionally and personally.
+    I've been passionate about computers since childhood, leading me to explore the vast world of technology. Linux fuels my day-to-day work, and I strive to contribute to open-source communities. My current focus is on mastering Solana's high-performance blockchain, building secure decentralized apps, and continually improving myself both professionally and personally.
   </p>
 </details>
 
