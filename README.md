@@ -29,7 +29,7 @@ A passionate computer science student who thrives on exploring open-source, Linu
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
   </a>
   <a href="https://docs.helius.dev/" target="_blank" rel="noreferrer">
-    <img src="https://helius.xyz/static/media/logo.2a04575d.svg" alt="Helius APIs" width="40" height="40"/>
+    <img src="https://app.ashbyhq.com/api/images/org-theme-logo/b083f53d-31a9-48fd-98f0-190f8c724c95/696c566d-1b82-4aa8-8acc-8cfdb68841f5.png" alt="Helius APIs" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
