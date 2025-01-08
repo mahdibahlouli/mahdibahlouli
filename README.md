@@ -63,9 +63,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="TryHackMe Badge" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahdibahlouli&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="500"/>
-</div>
+
 
 ---
 
@@ -75,7 +73,7 @@
 - **Description**: A real-time Solana token scanner that analyzes new tokens in pump pools and detects potential rug pulls.
 - **Features**:
   - Uses advanced AI models to classify tokens into categories: `Good`, `Bad`, or `DYOR` (Do Your Own Research).
-  - Tracks live token data from Solana pump pools using **Helius APIs**.
+  - Tracks live token data from Solana pump pools 
   - Provides traders with insights to avoid high-risk tokens and improve decision-making.
 - **Key Achievements**:
   - Backtested for 4 months with a **71% win rate** in detecting malicious tokens.
