@@ -62,14 +62,7 @@
 
 #### 🔍 **Sentry AI - Solana Token Rug Pull Scanner**
 - **Description**: A real-time Solana token scanner that analyzes new tokens in pump pools and detects potential rug pulls.
-- **Features**:
-  - Uses advanced AI models to classify tokens into categories: `Good`, `Bad`, or `DYOR` (Do Your Own Research).
-  - Tracks live token data from Solana pump pools 
-  - Provides traders with insights to avoid high-risk tokens and improve decision-making.
-- **Key Achievements**:
-  - Backtested for 4 months with a **71% win rate** in detecting malicious tokens.
-  - Integrated real-time analytics and risk assessment dashboards.
-  - Empowering the Solana trading community with safer trading practices.
+
 
 ---
 
