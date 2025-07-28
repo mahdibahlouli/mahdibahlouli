@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/46750750/118325857-f917d400-b4ea-11eb-8506-93e5f5a3a126.gif" alt="Wave" width="30"/>  
-  <h1>Hi, I'm <span style="color: #ff6f61;">Mahdi Bahlouli</span></h1>
   <h3>Web3 Developer | Open-source Enthusiast | Student</h3>
 </div>
 
@@ -8,9 +7,8 @@
 
 <div align="center">
   <p>
-    <em>
-      "Empowering the decentralized future with code and open-source contributions.  
-      Passionate about Solana Blockchain, Web3, and ethical security research."  
+    <em>  
+      Passionate about Blockchain Technology, Web3, and Decentralized Systems / Open-Source 
     </em>
   </p>
 </div>
@@ -44,7 +42,7 @@
 
 #### 🧑‍💻 Web3 Development
 - Building dApps on **Solana Blockchain**.
-- Leveraging **Helius APIs** for seamless data indexing, transaction tracking, and blockchain integration.
+- Leveraging **APIs** for seamless data indexing, transaction tracking, and blockchain integration.
 
 #### 🛡️ Security Research
 - Focused on **ethical hacking** and enhancing **Web3 security** to create safer decentralized systems.
@@ -53,7 +51,7 @@
 - Active in contributing to **open-source projects** and community-driven initiatives.
 
 #### 🖥️ Linux Enthusiast
-- Advocating for **Linux** and **open-source tools** as the foundation of modern tech innovation.
+- inlove with for **Linux** and **open-source tools** 
 
 ---
 
@@ -102,7 +100,5 @@ My work is a blend of open-source advocacy, technical problem-solving, and const
   <a href="https://www.linkedin.com/in/mahdi-bahlouli/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/mahdibahlouli" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+
 </div>
