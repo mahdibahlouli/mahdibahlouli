@@ -53,13 +53,6 @@
 #### 🖥️ Linux Enthusiast
 - inlove with for **Linux** and **open-source tools** 
 
----
-
-### 📊 **Statistics**
-
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MVNK1.png" alt="TryHackMe Badge" />
-</div>
 
 
 
