@@ -83,7 +83,7 @@ My work is a blend of open-source advocacy, technical problem-solving, and const
 ### 🌐 **Connect With Me**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahdi-bahlouli/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahdibahlouli/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
