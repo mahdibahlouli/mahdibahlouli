@@ -3,15 +3,6 @@
   <h3>Web3 | Open-source | Fintech</h3>
 </div>
 
----
-
-<div align="center">
-  <p>
-    <em>  
-      i love cooking up degital products  
-    </em>
-  </p>
-</div>
 
 ---
 
