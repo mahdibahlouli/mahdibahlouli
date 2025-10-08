@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/46750750/118325857-f917d400-b4ea-11eb-8506-93e5f5a3a126.gif" alt="Wave" width="30"/>  
-  <h3>Web3 Developer | Open-source Enthusiast | Student</h3>
+  <h3>Web3 | Open-source | Fintech</h3>
 </div>
 
 ---
@@ -8,7 +8,7 @@
 <div align="center">
   <p>
     <em>  
-      Passionate about Blockchain Technology, Web3, and Decentralized Systems / Open-Source 
+      i love cooking up degital products  
     </em>
   </p>
 </div>
@@ -38,33 +38,6 @@
 
 ---
 
-### 🛠️ **What I Do**
-
-#### 🧑‍💻 Web3 Development
-- Building dApps on **Solana Blockchain**.
-- Leveraging **APIs** for seamless data indexing, transaction tracking, and blockchain integration.
-
-#### 🛡️ Security Research
-- Focused on **ethical hacking** and enhancing **Web3 security** to create safer decentralized systems.
-
-#### 🌐 Open-Source Contributions
-- Active in contributing to **open-source projects** and community-driven initiatives.
-
-#### 🖥️ Linux Enthusiast
-- inlove with for **Linux** and **open-source tools** 
-
-
-
-
----
-
-### 🌟 **Featured Project**
-
-#### 🔍 **Sentry AI - Solana Token Rug Pull Scanner**
-- **Description**: A real-time Solana token scanner that analyzes new tokens in pump pools and detects potential rug pulls.
-
-
----
 
 ### 📖 **About Me**
 
