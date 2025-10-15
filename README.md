@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/46750750/118325857-f917d400-b4ea-11eb-8506-93e5f5a3a126.gif" alt="Wave" width="30"/>  
-  <h3>Web3 | Open-source | Fintech</h3>
+  <h3>WEB3 | FINTECH | OPEN-SOURCE</h3>
 </div>
 
 
